@@ -1,3 +1,3 @@
 flask
-guinicorn 
+gunicorn 
 google-generativeai
